@@ -1,0 +1,29 @@
+{
+  "name": "analytics-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "apexcharts": "^5.3.5",
+    "chart.js": "^4.4.0",
+    "framer-motion": "^10.12.16",
+    "react": "^18.2.0",
+    "react-apexcharts": "^1.7.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.1.2",
+    "react-svg-worldmap": "^2.0.0-alpha.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.4.8",
+    "vite": "^7.1.7"
+  }
+}
