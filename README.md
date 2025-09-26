@@ -18,3 +18,4 @@ This project provides an elegant UI for monitoring key metrics such as storefron
 📊 Trends, Top List, and Campaign Changes overview
 
 📅 Date filter & report export dropdown (styled like pro dashboards)
+Deployment Link: https://68d62ebed05cb623fce68f38--regal-naiad-4fa24a.netlify.app/
